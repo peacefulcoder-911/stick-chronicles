@@ -1,0 +1,17 @@
+# Environment & OS
+.env
+.env.*
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Chrome profile data
+flow_chrome_profile/
+
+# Large output renders
+out_shorts/*.mp4
+temp/
+videos/**/temp/
+audio/*.wav
